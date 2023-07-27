@@ -1,0 +1,9 @@
+{
+  "name": "js-yvmkbu",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "three": "0.92.0",
+    "three-orbit-controls": "82.1.0"
+  }
+}
